@@ -1,0 +1,10 @@
+{
+  "public/index.html": {
+    "href": "public/index.html",
+    "resources": [
+      "public/bundle.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
