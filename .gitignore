@@ -1,2 +1,5 @@
-#过滤包管理目录
+﻿#过滤包管理目录
+
 /node_modules
+
+./.project
