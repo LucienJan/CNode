@@ -1,5 +1,5 @@
 # vue-demo
-:cn:There is a vue demo about github emoticon, if it can help you,you can fork and star,Thanks.
+There is a vue demo about github emoticon, if it can help you,you can fork and star,Thanks.
 
 
 <div>
@@ -8,11 +8,11 @@
 <h1 alingn="center">CNode App</h1>
 
 <p>
-  <strong>此vue-cnode是一个使用 vue2.0,vue-router,vuex,各种loader插件 和 webpack 打包的 html5 web 应用, 使用 ES6 进行编写,并使用了缓存以及懒加载等技术. 后端使用的是 cnodejs社区 提供的API. </strong>,
-  <a href="https://stjw7098.github.io/vue-demo/public/#/index/list">Live Demo</a>
+  <strong>此CNode APP使用了 vue2.0,vue-router,vuex,各种loader插件和 webpack 打包的 html5 web 应用, 使用 ES6 进行编写,并使用了缓存以及懒加载等技术. 后端使用的是 cnodejs社区 提供的API,</strong>
+  <a href="https://lucienjan.github.io/CNode/public/#/index/list">Live Demo</a>
 </p>
 
-<p>
+<p align="center">
   <sub>作者 ❤︎ 
     <a href="https://github.com/LucienJan">LucienJan</a>
   </sub>
@@ -22,9 +22,9 @@
 
 ## 安装(Git)
 
-克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)），[点击预览（移动端效果更佳）](https://stjw7098.github.io/vue-demo/public/#/index/list)
+克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)）
 ```
-git clone git@github.com:stjw7098/vue-demo.git
+git clone git@github.com:LucienJan/CNode.git
 ```
 定位到public文件夹，在浏览器打开index.html
 ```
