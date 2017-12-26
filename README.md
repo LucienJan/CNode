@@ -9,7 +9,7 @@
 
 <p>
   <strong>此CNode APP使用了 vue2.0,vue-router,vuex,各种loader插件和 webpack 打包的 html5 web 应用, 使用 ES6 进行编写,并使用了缓存以及懒加载等技术. 后端使用的是 cnodejs社区 提供的API,</strong>
-  <a href="https://lucienjan.github.io/CNode/public/#/index/list">Live Demo</a>
+  <a href="https://lucienjan.github.io/CNode/public/#/index/list" target="_blank">Live Demo</a>
 </p>
 
 <p align="center">
